@@ -7,3 +7,11 @@
   opacity: 1;
   transform: scale(0.8);
 }
+
+.pulse {
+  background-color: coral;
+  height: 20vmax;
+  width: 20vmax;
+  border-radius: 100%;
+  position: relative;
+}
